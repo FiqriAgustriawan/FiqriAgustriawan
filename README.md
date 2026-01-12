@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td width="55%" valign="center">
-      <h3>// User_Profile_</h3>
+   
       <pre>
 {
   "id": "Fiqri Agustriawan",
