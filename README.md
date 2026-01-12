@@ -48,16 +48,12 @@
 ## GitHub Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FiqriAgustriawan&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FiqriAgustriawan&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FiqriAgustriawan&theme=github_dark" alt="Profile Details" width="100%" />
-  </picture>
+  <a href="https://github.com/FiqriAgustriawan">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FiqriAgustriawan&bg_color=0d1117&color=58a6ff&line=39d353&point=58a6ff&area=true&area_color=238636&hide_border=true" alt="Activity Graph" width="100%" />
+  </a>
 </p>
 
 
-
----
 
 ## Contribution Activity
 
