@@ -47,7 +47,7 @@
 
 <br/>
 
-<h2 align="center">GitHub Analytics</h2>
+<h2 align="center">⚡ GitHub Analytics</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FiqriAgustriawan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiqriAgustriawan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
@@ -55,7 +55,7 @@
 
 <br/>
 
-<h2 align="center">Contribution History</h2>
+<h2 align="center">🐍 Contribution History</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FiqriAgustriawan/FiqriAgustriawan/output/github-contribution-grid-snake-dark.svg">
