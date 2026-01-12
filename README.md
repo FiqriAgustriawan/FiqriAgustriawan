@@ -45,13 +45,6 @@
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/FiqriAgustriawan">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FiqriAgustriawan&theme=github_dark" alt="Profile Details" width="100%" />
-  </a>
-</p>
 
 
 
