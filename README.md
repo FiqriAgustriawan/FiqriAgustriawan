@@ -37,7 +37,7 @@
       </pre>
     </td>
     <td width="45%" valign="center" align="center">
-      <img src="sticker.gif" alt="Sticker Animation" width="100%" />
+      <img src="kitty-transparent.gif" alt="Sticker Animation" width="100%" />
     </td>
   </tr>
 </table>
